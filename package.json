@@ -1,0 +1,19 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Servidor para o site do trabalho",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "trabalho": "file:"
+  }
+}
